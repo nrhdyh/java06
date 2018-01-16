@@ -47,6 +47,7 @@ public static void main(String[] args){
            System.out.println("Maaf pilihan salah ");
                     }
                    }
-                    System.out.println(nama+", warna anda "+ulasan);                   
+                    System.out.println(nama+", warna anda "+ulasan);     
+                    System.out.println("hi"); 
     }
 }
